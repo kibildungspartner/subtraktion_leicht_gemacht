@@ -13,7 +13,7 @@ Schritte zur Entwicklung und Bereitstellung Ihrer Streamlit-App:
      ```
    - Testen Sie Ihre App lokal, indem Sie den Befehl ausführen:
      ```
-     streamlit run app_.py (Code für die App gibt es auf Anfrage)
+     streamlit run app_.py 
      ```
    - Dieser Befehl öffnet die App im Standardbrowser, sodass Sie die Funktionalität überprüfen können.
 
